@@ -36,13 +36,13 @@ You can also uninstall k8d using the provided make script.
 - **`FILENAME`**: The path to the file being disassembled.
 
 
-### OPTIONS
+### Options
 
 - **`-a`**: Print information about k8d to the console, and exit.
 
 - **`-h`**: Print help text to the console, and exit.
 
-- ** `-o PATH`**: Write output to the file at PATH.
+- **`-o PATH`**: Write output to the file at PATH.
 
 
 ## Exit Codes
