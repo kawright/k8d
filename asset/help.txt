@@ -1,0 +1,5 @@
+k8d FILENAME [-a] [-h] [-o PATH]
+
+-a  Display description, author, and version info
+-h  Display this help text
+-o  Output to file at PATH

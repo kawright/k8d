@@ -1,0 +1,8 @@
+k8d - Kristoffer's Chip-8 Disassembler
+Version 1.1
+
+Web         web.kriswrightdev.com/proj/k8d
+Author:     KA Wright
+Email:      kris.al.wright@gmail.com
+
+Copyright (C) 2024  KA Wright
